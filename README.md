@@ -1,4 +1,4 @@
-# refactored-donut-java
+# donut-java
 
 Credits to Andy Sloane & Ray Myers.
 
