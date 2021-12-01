@@ -12,6 +12,3 @@ I was bored so I translated it to java.
 ```
 java donut.java
 ```
-## Output
-
-https://user-images.githubusercontent.com/63439180/144255815-8fd974e0-fe64-4387-ba09-83df7c18ec5b.mp4
