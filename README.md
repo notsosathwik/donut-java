@@ -2,6 +2,8 @@
 
 Credits to Andy Sloane & Ray Myers.
 
+This is a java program to render a donut in the terminal.
+
 To understand how the math works behind the scenes, have a look at Sloane's blog post here: https://www.a1k0n.net/2011/07/20/donut-math.html
 
 Thanks to Ray Myers for the refactored C language code. Repo's link: https://github.com/craftvscruft/refactoring-donut
